@@ -12,6 +12,6 @@ public class EmployeeTest {
     emp.add(new Employee(104, "Amol", "Pune"));
 
     System.out.println(emp);
-    Collections.sort(null);
+    
   }
 }
